@@ -2,7 +2,7 @@
     {
         "id": "1",
         "ads_data": "{}",
-        "download_url": "https:\/\/example.com\/download.apk",
+        "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.puzzle.game.craftz.dgames",
         "web_url": "https:\/\/example.com",
         "app_version": "0",
         "message": "New update available!",
